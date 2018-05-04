@@ -1,2 +1,11 @@
 you are a cool man!你好
+<<<<<<< HEAD
 nibuhao
+=======
+
+shsjshslk
+
+
+
+111111111112222222222
+>>>>>>> 2aa3312fcc139870182a2d952de46eac03f40857
